@@ -1,2 +1,2 @@
 # Wallpapers
- Repo of wallpapers i use
+ repo of wallpapers i use
